@@ -1,0 +1,182 @@
+2025-04-03 10:13:41,853 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:13:41,878 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:13:41,878 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:13:45,297 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:13:45] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-03 10:13:45,606 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:13:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-03 10:14:11,304 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:14:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-03 10:15:44,967 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:15:44,977 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:15:44,977 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:15:48,619 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:15:48] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-03 10:18:55,328 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:18:55,397 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:18:55,399 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:18:57,529 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:18:57] "GET / HTTP/1.1" 200 -
+2025-04-03 10:18:57,571 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:18:57] "GET /static/js/chat.js HTTP/1.1" 200 -
+2025-04-03 10:18:57,837 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:18:57] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-03 10:19:06,428 - __main__ - ERROR - Error in chat endpoint: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-03 10:19:06,430 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:06] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-04-03 10:19:22,227 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:22] "GET / HTTP/1.1" 200 -
+2025-04-03 10:19:22,271 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:19:22,492 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:22] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:19:25,926 - __main__ - ERROR - Error in chat endpoint: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-03 10:19:25,926 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:25] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-04-03 10:19:28,943 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:28] "GET / HTTP/1.1" 200 -
+2025-04-03 10:19:29,257 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:29] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:19:29,312 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:29] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:19:37,118 - __main__ - ERROR - Error in chat endpoint: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-03 10:19:37,122 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:19:37] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-04-03 10:20:53,137 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:20:53,154 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:20:53,156 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:20:57,455 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:20:57] "GET / HTTP/1.1" 200 -
+2025-04-03 10:20:57,503 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:20:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:20:57,697 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:20:57] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:21:00,828 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:00] "GET / HTTP/1.1" 200 -
+2025-04-03 10:21:00,876 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:21:01,103 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:01] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:21:07,518 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:07] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:21:15,628 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:15] "POST /api/reset HTTP/1.1" 200 -
+2025-04-03 10:21:20,682 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:20] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:21:28,008 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:21:28] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:22:01,019 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:01] "GET / HTTP/1.1" 200 -
+2025-04-03 10:22:01,095 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:22:01,300 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:01] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:22:06,568 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:06] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:22:39,559 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:39] "GET / HTTP/1.1" 200 -
+2025-04-03 10:22:39,592 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:22:39,804 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:39] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:22:44,042 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:44] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:22:51,541 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:22:51] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:23:10,560 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:23:10,586 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:23:10,591 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:23:12,446 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:23:12] "GET / HTTP/1.1" 200 -
+2025-04-03 10:23:12,502 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:23:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:23:12,694 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:23:12] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:23:20,539 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:23:20] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:24:27,257 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:27] "GET / HTTP/1.1" 200 -
+2025-04-03 10:24:27,329 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:24:27,508 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:27] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:24:31,353 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:31] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:24:47,982 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:47] "GET / HTTP/1.1" 200 -
+2025-04-03 10:24:48,041 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:24:48,234 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:48] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:24:52,810 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:24:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:28:13,438 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:28:13] "GET / HTTP/1.1" 200 -
+2025-04-03 10:28:13,617 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:28:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:28:13,711 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:28:13] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:28:19,618 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:28:19] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:29:09,652 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:29:09,663 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:29:09,667 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:29:12,639 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:29:12] "GET / HTTP/1.1" 200 -
+2025-04-03 10:29:12,696 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:29:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:29:12,888 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:29:12] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:31:20,412 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:31:20] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:33:58,425 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:33:58,452 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 10:33:58,452 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:34:03,476 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:03] "GET / HTTP/1.1" 200 -
+2025-04-03 10:34:03,555 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:03] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:34:03,638 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:34:09,449 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:09] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:34:16,205 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:16] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:34:30,345 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:30] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:34:43,023 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:34:43] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:37:26,410 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:37:26,491 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.35.55.27:5000
+2025-04-03 10:37:26,491 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:37:26,498 - werkzeug - INFO -  * Restarting with stat
+2025-04-03 10:37:29,758 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:37:29,786 - werkzeug - WARNING -  * Debugger is active!
+2025-04-03 10:37:29,802 - werkzeug - INFO -  * Debugger PIN: 941-065-376
+2025-04-03 10:37:34,698 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:37:34] "GET / HTTP/1.1" 200 -
+2025-04-03 10:37:35,120 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:37:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:37:35,235 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:37:35] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:37:43,602 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:37:43] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:39:38,006 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:39:38,044 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.35.55.27:5000
+2025-04-03 10:39:38,047 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:39:38,054 - werkzeug - INFO -  * Restarting with stat
+2025-04-03 10:39:41,084 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:39:41,111 - werkzeug - WARNING -  * Debugger is active!
+2025-04-03 10:39:41,119 - werkzeug - INFO -  * Debugger PIN: 941-065-376
+2025-04-03 10:39:45,525 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:39:45] "GET / HTTP/1.1" 200 -
+2025-04-03 10:39:45,606 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:39:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:39:45,776 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:39:45] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:40:00,089 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:00] "GET / HTTP/1.1" 200 -
+2025-04-03 10:40:00,187 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:40:00,351 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:00] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:40:07,322 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:07] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:40:10,966 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:10] "POST /api/reset HTTP/1.1" 200 -
+2025-04-03 10:40:16,225 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:16] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:40:23,841 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:23] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:40:32,034 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:40:32] "POST /api/reset HTTP/1.1" 200 -
+2025-04-03 10:41:26,327 - werkzeug - INFO -  * Detected change in 'F:\\FULL STACK WEB\\sneaker_fit_finder\\app.py', reloading
+2025-04-03 10:41:28,727 - werkzeug - INFO -  * Restarting with stat
+2025-04-03 10:41:31,878 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:41:31,897 - werkzeug - WARNING -  * Debugger is active!
+2025-04-03 10:41:31,907 - werkzeug - INFO -  * Debugger PIN: 941-065-376
+2025-04-03 10:41:33,118 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:41:33] "GET / HTTP/1.1" 200 -
+2025-04-03 10:41:33,525 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:41:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:41:33,608 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:41:33] "[36mGET /static/js/chat.js HTTP/1.1[0m" 304 -
+2025-04-03 10:41:43,089 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:41:43] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:41:54,743 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:41:54] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:42:15,023 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:42:15] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:42:58,008 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:42:58] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:43:05,892 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:43:05] "POST /api/reset HTTP/1.1" 200 -
+2025-04-03 10:43:13,393 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:43:13] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:43:20,677 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:43:20] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:47:05,697 - werkzeug - INFO -  * Detected change in 'F:\\FULL STACK WEB\\sneaker_fit_finder\\app.py', reloading
+2025-04-03 10:47:08,220 - werkzeug - INFO -  * Restarting with stat
+2025-04-03 10:47:12,344 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:47:42,185 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:50:05,082 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:50:40,969 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:50:41,001 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.35.55.27:5000
+2025-04-03 10:50:41,001 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 10:50:41,002 - werkzeug - INFO -  * Restarting with stat
+2025-04-03 10:50:43,904 - __main__ - INFO - Gemini API configured successfully
+2025-04-03 10:50:43,917 - werkzeug - WARNING -  * Debugger is active!
+2025-04-03 10:50:43,923 - werkzeug - INFO -  * Debugger PIN: 941-065-376
+2025-04-03 10:50:47,242 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:47] "GET / HTTP/1.1" 200 -
+2025-04-03 10:50:47,318 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-03 10:50:47,475 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:47] "GET /static/js/chat.js HTTP/1.1" 200 -
+2025-04-03 10:51:00,895 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:00] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:51:04,331 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:04] "POST /api/reset HTTP/1.1" 200 -
+2025-04-03 10:51:12,285 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:12] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:51:19,222 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:19] "POST /api/reset HTTP/1.1" 200 -
+2025-04-03 10:51:25,583 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:25] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:51:36,614 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:36] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:51:52,245 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:52:12,099 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:52:12] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:52:23,623 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:52:23] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:52:54,260 - __main__ - ERROR - Error in chat endpoint: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-04-03 10:52:54,271 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:52:54] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-04-03 10:53:16,137 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:53:16] "POST /api/chat HTTP/1.1" 200 -
